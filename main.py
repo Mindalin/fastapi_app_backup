@@ -578,6 +578,38 @@ async def update_item_quantity_by_name(
 
     return db_order
 
+@app.patch("/orders/by-identifier/{identifier}/status", response_model=schemas.OrderResponse)
+async def update_order_status(
+    identifier: str,
+    status: schemas.OrderStatusEnum = Form(...),
+    db: Session = Depends(get_db),
+    current_user: models.User = Depends(get_current_user)
+):
+    # Находим заказ
+    db_order = db.query(models.Order).filter(models.Order.identifier == identifier).first()
+    if not db_order:
+        raise HTTPException(status_code=404, detail="Order not found")
+
+    # Обновляем статус
+    db_order.status = status
+    db.commit()
+    db.refresh(db_order)
+
+    # Обновляем чек, так как статус изменился
+    receipt_path = RECEIPTS_DIR / f"{identifier}_receipt.pdf"
+    if receipt_path.exists():
+        try:
+            receipt_path.unlink()
+            print(f"Старый чек для заказа {identifier} удалён")
+        except Exception as e:
+            print(f"Не удалось удалить старый чек для заказа {identifier}: {str(e)}")
+    try:
+        crud.generate_receipt(identifier, db)
+    except Exception as e:
+        print(f"Не удалось сгенерировать новый чек для заказа {identifier} после изменения статуса: {str(e)}")
+
+    return db_order
+
 def custom_openapi():
     if app.openapi_schema:
         return app.openapi_schema
