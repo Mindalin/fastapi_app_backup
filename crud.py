@@ -615,33 +615,58 @@ def delete_product_by_name(db: Session, name: str):
     return db_product
 
 def delete_client_by_name(db: Session, first_name: str = None, last_name: str = None):
+    print(f"Searching for client with first_name='{first_name}', last_name='{last_name}'")
+    
     query = db.query(models.Client)
     if first_name:
         query = query.filter(func.lower(models.Client.first_name) == func.lower(first_name))
     if last_name:
         query = query.filter(func.lower(models.Client.last_name) == func.lower(last_name))
+    
+    # Выводим всех клиентов, соответствующих запросу
+    matching_clients = query.all()
+    print(f"Found {len(matching_clients)} matching clients: {[f'{c.first_name} {c.last_name}' for c in matching_clients]}")
+    
     db_client = query.first()
     if not db_client:
+        print("Client not found in database")
         return None
+    
+    print(f"Client found: {db_client.first_name} {db_client.last_name}, ID: {db_client.id}")
     
     # Удаляем связанные заказы
     orders = db.query(models.Order).filter(models.Order.client_id == db_client.id).all()
+    print(f"Found {len(orders)} orders for client ID {db_client.id}")
     for order in orders:
+        print(f"Processing order ID {order.id}")
         # Находим все элементы заказа
         order_items = db.query(models.OrderItem).filter(models.OrderItem.order_id == order.id).all()
+        print(f"Found {len(order_items)} order items for order ID {order.id}")
         for item in order_items:
+            print(f"Processing order item ID {item.id}, product ID {item.product_id}, quantity {item.quantity}")
             # Находим продукт и увеличиваем stock
             product = db.query(models.Product).filter(models.Product.id == item.product_id).first()
             if product:
+                print(f"Updating stock for product ID {product.id}: current stock {product.stock}, adding {item.quantity}")
                 product.stock += item.quantity
+            else:
+                print(f"Product ID {item.product_id} not found")
             # Удаляем элемент заказа
             db.delete(item)
         # Удаляем сам заказ
         db.delete(order)
     
     # Удаляем клиента
+    print(f"Deleting client ID {db_client.id}")
     db.delete(db_client)
-    db.commit()
+    try:
+        db.commit()
+        print("Client deleted successfully")
+    except Exception as e:
+        print(f"Error committing changes: {e}")
+        db.rollback()
+        raise
+    
     return db_client
 
 def delete_order_by_identifier(db: Session, identifier: str):

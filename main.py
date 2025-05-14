@@ -134,7 +134,13 @@ def create_order(
     db: Session = Depends(get_db),
     current_user: models.User = Depends(get_current_user)
 ):
-    return crud.create_order(db, order)
+    created_order = crud.create_order(db, order)
+    
+    # Генерируем и сохраняем чек
+    identifier = created_order.identifier
+    generate_receipt(identifier, db)
+    
+    return created_order
 
 @app.post("/orders/by-form", response_model=schemas.OrderResponse)
 async def create_order_by_form(

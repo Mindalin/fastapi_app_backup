@@ -2,6 +2,7 @@
 
 # Путь к проекту
 PROJECT_DIR="/root/fastapi_app"
+LOG_FILE="/root/fastapi_app/uvicorn.log"
 
 # Проверка, запущен ли uvicorn
 if ! pgrep -f "uvicorn main:app" > /dev/null; then
@@ -9,8 +10,8 @@ if ! pgrep -f "uvicorn main:app" > /dev/null; then
     cd $PROJECT_DIR
     # Очищаем кэш Python
     find . -name "__pycache__" -exec rm -rf {} +
-    # Запускаем uvicorn с reload
-    /root/fastapi_app/venv/bin/uvicorn main:app --host 0.0.0.0 --port 8000 --reload &
+    # Запускаем uvicorn с reload и перенаправляем логи в файл
+    /root/fastapi_app/venv/bin/uvicorn main:app --host 0.0.0.0 --port 8000 --reload >> $LOG_FILE 2>&1 &
     echo "Uvicorn запущен с PID $!"
 else
     echo "Uvicorn уже запущен. Проверка на зависание..."
@@ -24,8 +25,8 @@ else
         # Очищаем кэш Python
         cd $PROJECT_DIR
         find . -name "__pycache__" -exec rm -rf {} +
-        # Перезапускаем uvicorn
-        /root/fastapi_app/venv/bin/uvicorn main:app --host 0.0.0.0 --port 8000 --reload &
+        # Перезапускаем uvicorn с перенаправлением логов
+        /root/fastapi_app/venv/bin/uvicorn main:app --host 0.0.0.0 --port 8000 --reload >> $LOG_FILE 2>&1 &
         echo "Uvicorn перезапущен с PID $!"
     else
         echo "Uvicorn работает нормально."
