@@ -1,0 +1,318 @@
+INFO:     Will watch for changes in these directories: ['/root/fastapi_app']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [100014] using StatReload
+INFO:     Will watch for changes in these directories: ['/root/fastapi_app']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [100032] using StatReload
+INFO:     Started server process [100016]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Stopping reloader process [100014]
+INFO:     Started server process [100035]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:44378 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47792 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39670 - "GET / HTTP/1.1" 200 OK
+INFO:     167.99.1.98:33578 - "GET /squid-internal-mgr/cachemgr.cgi HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55150 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52000 - "GET / HTTP/1.1" 200 OK
+INFO:     164.90.161.106:56980 - "GET / HTTP/1.1" 200 OK
+INFO:     164.90.161.106:56982 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60444 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60864 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45390 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53074 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56836 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54090 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56864 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59944 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43484 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43820 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41700 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53758 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58342 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51958 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52602 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34962 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38826 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48728 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52600 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41322 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56602 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58222 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60216 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34888 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36348 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47954 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53022 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46978 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52898 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50352 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44908 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36564 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36406 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45500 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35192 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54082 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51080 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55788 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39306 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60850 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51894 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37606 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34946 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47786 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54036 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48142 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35060 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52644 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38994 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51842 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42186 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40456 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52844 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46488 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35928 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59370 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:60064 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41452 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35610 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34308 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58660 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45386 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59982 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38460 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49968 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42138 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42876 - "GET / HTTP/1.1" 200 OK
+INFO:     57.129.64.237:51852 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59220 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36124 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53872 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48616 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35398 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51140 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36364 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:58262 - "GET /docs HTTP/1.1" 200 OK
+INFO:     185.125.100.40:36170 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59758 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55072 - "GET / HTTP/1.1" 200 OK
+INFO:     205.210.31.75:64512 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48614 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49864 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43494 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50998 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52148 - "GET / HTTP/1.1" 200 OK
+INFO:     57.129.64.237:59590 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37774 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39812 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47654 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55424 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54710 - "GET / HTTP/1.1" 200 OK
+INFO:     81.215.105.230:42233 - "GET / HTTP/1.0" 200 OK
+INFO:     127.0.0.1:47966 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58796 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47510 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46150 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51806 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:59784 - "OPTIONS /products?skip=0&limit=10 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:52370 - "OPTIONS /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:52390 - "GET /uploads/cel0pcerbt6b315aufs3xefj1tqj5aek.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:52386 - "GET /products?skip=0&limit=1 HTTP/1.1" 401 Unauthorized
+WARNING:  Invalid HTTP request received.
+INFO:     185.91.127.81:38132 - "CONNECT pro.ip-api.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37854 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37924 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44876 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43658 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50078 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33796 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40608 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54602 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43382 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59900 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33418 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58940 - "GET / HTTP/1.1" 200 OK
+INFO:     68.235.46.124:16559 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:36656 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43360 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52816 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37780 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41576 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37002 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42742 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46566 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:60502 - "GET /docs HTTP/1.1" 200 OK
+INFO:     185.125.100.40:60502 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52908 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45012 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:34244 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36138 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46858 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53546 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54272 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51220 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48844 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37504 - "OPTIONS /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37518 - "GET /clients HTTP/1.1" 401 Unauthorized
+INFO:     185.125.100.40:49728 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+DEBUG:passlib.handlers.bcrypt:detected 'bcrypt' backend, version '3.2.0'
+DEBUG:passlib.handlers.bcrypt:'bcrypt' backend lacks $2$ support, enabling workaround
+INFO:     185.125.100.40:49728 - "POST /login HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57066 - "OPTIONS /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57068 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33892 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55706 - "OPTIONS /search/orders/DMA000010 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55718 - "GET /search/orders/DMA000010 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:41240 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:46042 - "OPTIONS /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:46054 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:36940 - "OPTIONS /orders/DMA000008/receipt HTTP/1.1" 200 OK
+INFO:     185.125.100.40:36950 - "GET /orders/DMA000008/receipt HTTP/1.1" 200 OK
+INFO:     185.125.100.40:56830 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:36296 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43190 - "OPTIONS /products?skip=0&limit=10 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43206 - "GET /products?skip=0&limit=10 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43206 - "OPTIONS /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43212 - "GET /uploads/Eu7NUER3mHg.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:43214 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43214 - "OPTIONS /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48130 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48130 - "OPTIONS /orders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56128 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48146 - "POST /orders HTTP/1.1" 200 OK
+INFO:     185.125.100.40:40992 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57624 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:35322 - "GET /products?skip=0&limit=10 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:35322 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:35322 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:51228 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:58308 - "OPTIONS /search/clients?first_name=%D0%9C%D0%B8%D0%BD%D0%B3%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2&last_name=%D0%94%D0%B0%D0%BD%D0%B8%D1%80 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:58324 - "GET /search/clients?first_name=%D0%9C%D0%B8%D0%BD%D0%B3%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2&last_name=%D0%94%D0%B0%D0%BD%D0%B8%D1%80 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:51504 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37888 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:58424 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:58474 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:58912 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45076 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:40190 - "OPTIONS /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:40206 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39622 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47864 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48318 - "GET / HTTP/1.1" 200 OK
+INFO:     80.75.212.45:36500 - "CONNECT pro.ip-api.com%3A443 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:55506 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     165.22.115.197:43394 - "GET / HTTP/1.1" 200 OK
+INFO:     165.22.115.197:43402 - "GET /login HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:44410 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45656 - "OPTIONS /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:38794 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54120 - "GET /clients HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41694 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:59440 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37620 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42366 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44930 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37840 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36250 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45682 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52590 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32862 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49732 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46948 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57250 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58830 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37450 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45672 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55442 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55916 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53412 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:59978 - "OPTIONS /products?skip=0&limit=10 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:59980 - "OPTIONS /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:59990 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:59990 - "OPTIONS /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:60002 - "GET /uploads/598_original.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:60010 - "GET /products HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38336 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35484 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45326 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42228 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48496 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43572 - "GET / HTTP/1.1" 200 OK
+INFO:     61.85.148.250:61454 - "GET / HTTP/1.0" 200 OK
+INFO:     127.0.0.1:38330 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:38982 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46732 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47856 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50826 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37516 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45654 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49678 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48292 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33246 - "GET / HTTP/1.1" 200 OK
+INFO:     206.168.34.73:57120 - "GET / HTTP/1.1" 200 OK
+INFO:     206.168.34.73:53314 - "GET / HTTP/1.1" 200 OK
+INFO:     206.168.34.73:53318 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     206.168.34.73:53348 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     206.168.34.73:45426 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:45490 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53802 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33222 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43208 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42562 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45010 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48864 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49660 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56218 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52994 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37484 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43398 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57460 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40492 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37076 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59730 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57338 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34966 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41340 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33056 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46324 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57594 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50380 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43846 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42146 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38496 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40580 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42264 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44944 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45456 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49496 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33110 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52236 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37288 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53808 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48938 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48318 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45972 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34198 - "GET / HTTP/1.1" 200 OK
