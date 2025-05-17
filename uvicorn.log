@@ -316,3 +316,758 @@ INFO:     127.0.0.1:48938 - "GET / HTTP/1.1" 200 OK
 INFO:     127.0.0.1:48318 - "GET / HTTP/1.1" 200 OK
 INFO:     127.0.0.1:45972 - "GET / HTTP/1.1" 200 OK
 INFO:     127.0.0.1:34198 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37768 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51390 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37762 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57340 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32902 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52544 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35024 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38252 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57966 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43722 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45010 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42522 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38766 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55550 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50924 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45944 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54866 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39278 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53650 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55466 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33980 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60878 - "GET / HTTP/1.1" 200 OK
+INFO:     47.251.92.182:36310 - "GET / HTTP/1.1" 200 OK
+INFO:     123.160.223.72:57716 - "GET / HTTP/1.1" 200 OK
+INFO:     123.160.223.74:19266 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55228 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45028 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:37122 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56422 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54274 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41348 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38062 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50012 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45530 - "GET / HTTP/1.1" 200 OK
+INFO:     198.235.24.227:58656 - "GET / HTTP/1.1" 200 OK
+INFO:     198.235.24.153:63540 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37896 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57296 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43956 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59112 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60300 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54516 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38620 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     80.75.212.64:42362 - "CONNECT pro.ip-api.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57952 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60062 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48830 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:35264 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32956 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49258 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35998 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42016 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59416 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45012 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36564 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35908 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41420 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45120 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42874 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43972 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43232 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56356 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41478 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46722 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37812 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59004 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53602 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46758 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56260 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59050 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58156 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36596 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59104 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     80.75.212.45:58640 - "CONNECT pro.ip-api.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58390 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55764 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42284 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47408 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50032 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42760 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:42088 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52150 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42250 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56504 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51678 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55826 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52434 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45896 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33458 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49848 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36406 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42970 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51528 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     142.93.10.109:38402 - "GET / HTTP/1.1" 200 OK
+INFO:     142.93.10.109:35248 - "GET /login HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:32890 - "GET / HTTP/1.1" 200 OK
+INFO:     198.235.24.112:58714 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33078 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58268 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51022 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53188 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57402 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60482 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     80.75.212.32:42334 - "CONNECT pro.ip-api.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51626 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51780 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45308 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52784 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44034 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35904 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36370 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39268 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33946 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55322 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48140 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44140 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37970 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45328 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39194 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46358 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38820 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52412 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48686 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59816 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57990 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50884 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33432 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44132 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56020 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56064 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50260 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     80.75.212.32:48330 - "CONNECT pro.ip-api.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56926 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35366 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55256 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42356 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43364 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33328 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34210 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:47290 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41924 - "GET / HTTP/1.1" 200 OK
+INFO:     3.149.59.26:40888 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:54594 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:51792 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47782 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57018 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37688 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50374 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32818 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47748 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35820 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36256 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:40422 - "OPTIONS /products?skip=0&limit=10 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45224 - "GET /uploads/r071klxl4x7dpti0dzvjsf98c8wd2gy6.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:45222 - "OPTIONS /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45232 - "GET /uploads/cel0pcerbt6b315aufs3xefj1tqj5aek.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:45246 - "GET /products?skip=0&limit=1 HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:50396 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:10]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[11:19]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[20:28]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[29:33]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[34:42]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[43:48]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:38962 - "POST /login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36514 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53714 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48932 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36840 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47804 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36720 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45168 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     80.75.212.32:60332 - "CONNECT pro.ip-api.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53502 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59882 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54272 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51310 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36280 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50712 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60952 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39176 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35914 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54072 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56828 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46754 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57956 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42468 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53248 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38930 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38104 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53070 - "GET / HTTP/1.1" 200 OK
+INFO:     198.235.24.98:65318 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45988 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54584 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     178.207.176.227:35285 - "POST /login HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34504 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34216 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34684 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34684 - "GET /search/orders/RKHA000012 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34547 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34514 - "GET /orders/DMA000008/receipt HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33893 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34888 - "GET /orders/DMA000008/receipt HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34021 - "GET /orders/DMA000008/receipt HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33896 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34021 - "GET /search/orders/KKK000002 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33702 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34735 - "GET /search/orders/KKK000002 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34021 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     178.207.176.227:34632 - "POST /login HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33686 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34596 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34253 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33374 - "GET /uploads/cel0pcerbt6b315aufs3xefj1tqj5aek.jpg HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33641 - "GET /uploads/Eu7NUER3mHg.jpg HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34364 - "GET /uploads/598_original.jpg HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35284 - "GET /uploads/r071klxl4x7dpti0dzvjsf98c8wd2gy6.jpg HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34660 - "POST /orders HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34827 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33367 - "GET /search/orders/DMA000038 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34660 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34660 - "GET /orders/DMA000038/receipt HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34660 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34660 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34660 - "GET /orders/DMA000039/receipt HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35274 - "GET /orders/DMA000039/receipt HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35272 - "GET /orders/DMA000039/receipt HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34616 - "GET /orders/DMA000039/receipt HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34616 - "GET /orders/DMA000039/receipt HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58528 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34616 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35279 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35279 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34746 - "GET /clients HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60064 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:50668 - "POST /login HTTP/1.1" 200 OK
+INFO:     185.125.100.40:59764 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43970 - "GET /search/orders/KKK000011 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:33210 - "GET /orders/KKK000011/receipt HTTP/1.1" 404 Not Found
+INFO:     185.125.100.40:33210 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:33210 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:33210 - "GET /orders/DMA000039/receipt HTTP/1.1" 200 OK
+INFO:     185.125.100.40:47204 - "GET /orders/DMA000039/receipt HTTP/1.1" 200 OK
+INFO:     185.125.100.40:47188 - "GET /orders/DMA000039/receipt HTTP/1.1" 200 OK
+INFO:     185.125.100.40:47208 - "GET /orders/DMA000039/receipt HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39538 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:37534 - "POST /login HTTP/1.1" 200 OK
+INFO:     185.125.100.40:34190 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37246 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37246 - "GET /orders/DMA000039/receipt HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49418 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45704 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     80.75.212.12:47622 - "CONNECT pro.ip-api.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47772 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55224 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47940 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45064 - "GET / HTTP/1.1" 200 OK
+INFO:     149.200.46.150:40198 - "GET / HTTP/1.0" 200 OK
+INFO:     127.0.0.1:60420 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56888 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38498 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44142 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34162 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47174 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37388 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40208 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48056 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60992 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:33894 - "POST /login HTTP/1.1" 200 OK
+INFO:     185.125.100.40:33688 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:33688 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:33688 - "GET /orders/DMA000008/receipt HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48788 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     178.207.176.227:34400 - "POST /login HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33364 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33364 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33364 - "GET /orders/DMA000039/receipt HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:79]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[80:88]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[89:91]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:79]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[80:88]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[89:90]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Received: identifier=DMA000039, product_name=Холодильник, quantity=23, type=<class 'int'>
+Received: identifier=DMA000039, product_name=Холодильник, quantity=0, type=<class 'int'>
+Старый чек для заказа DMA000039 удалён
+INFO:     178.207.176.227:34737 - "PATCH /orders/by-identifier/DMA000039/items/by-name HTTP/1.1" 400 Bad Request
+INFO:     178.207.176.227:33387 - "PATCH /orders/by-identifier/DMA000039/items/by-name HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:79]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[80:88]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[89:90]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:79]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[80:88]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[89:90]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Received: identifier=DMA000039, product_name=Холодильник, quantity=0, type=<class 'int'>
+Received: identifier=DMA000039, product_name=Холодильник, quantity=3, type=<class 'int'>
+INFO:     178.207.176.227:34109 - "PATCH /orders/by-identifier/DMA000039/items/by-name HTTP/1.1" 404 Not Found
+INFO:     178.207.176.227:35267 - "PATCH /orders/by-identifier/DMA000039/items/by-name HTTP/1.1" 404 Not Found
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:79]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[80:88]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[89:91]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Received: identifier=DMA000039, product_name=Холодильник, quantity=23, type=<class 'int'>
+INFO:     178.207.176.227:33772 - "PATCH /orders/by-identifier/DMA000039/items/by-name HTTP/1.1" 404 Not Found
+INFO:     178.207.176.227:34737 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35267 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33387 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34109 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33772 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:6]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[7:12]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:79]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[80:88]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[89:90]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Старый чек для заказа DMA000039 удалён
+Received: identifier=DMA000039, product_name=Холодильник, quantity=3, type=<class 'int'>
+INFO:     178.207.176.227:34737 - "PATCH /orders/by-identifier/DMA000039/status HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33387 - "PATCH /orders/by-identifier/DMA000039/items/by-name HTTP/1.1" 404 Not Found
+INFO:     178.207.176.227:33387 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34737 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35225 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35282 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35225 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35225 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57066 - "GET /orders?skip=0&limit=100 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:79]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[80:88]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[89:90]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Received: identifier=DMA000039, product_name=холодильник, quantity=1, type=<class 'int'>
+Старый чек для заказа DMA000039 удалён
+INFO:     178.207.176.227:34252 - "POST /orders/by-identifier/DMA000039/items HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34252 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:34758 - "GET /orders?skip=0&limit=100 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:79]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[80:88]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[89:91]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Received: identifier=DMA000039, product_name=Холодильник, quantity=12, type=<class 'int'>
+INFO:     178.207.176.227:33719 - "PATCH /orders/by-identifier/DMA000039/items/by-name HTTP/1.1" 400 Bad Request
+INFO:     178.207.176.227:33719 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:44156 - "GET /orders?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34305 - "GET /orders/DMA000039/receipt HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:79]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[80:88]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[89:90]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Received: identifier=DMA000039, product_name=Холодильник, quantity=1, type=<class 'int'>
+Старый чек для заказа DMA000039 удалён
+INFO:     178.207.176.227:34648 - "PATCH /orders/by-identifier/DMA000039/items/by-name HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33480 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33480 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35070 - "GET /search/orders/DMA000039 HTTP/1.1" 200 OK
+Чек для заказа DMA000039 удалён
+INFO:     178.207.176.227:35070 - "DELETE /orders/DMA000039 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34405 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35070 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35070 - "GET /search/orders/KKK000029 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:79]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[80:88]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[89:90]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Received: identifier=KKK000029, product_name=Кондиционер, quantity=0, type=<class 'int'>
+Старый чек для заказа KKK000029 удалён
+INFO:     127.0.0.1:40894 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35070 - "PATCH /orders/by-identifier/KKK000029/items/by-name HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:79]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[80:88]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[89:91]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Received: identifier=KKK000029, product_name=Кондиционер, quantity=21, type=<class 'int'>
+INFO:     178.207.176.227:33475 - "PATCH /orders/by-identifier/KKK000029/items/by-name HTTP/1.1" 404 Not Found
+INFO:     178.207.176.227:35070 - "GET /search/orders/KKK000029 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:79]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[80:88]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[89:90]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     178.207.176.227:33475 - "GET /search/orders/KKK000029 HTTP/1.1" 200 OK
+Received: identifier=KKK000029, product_name=Кондиционер, quantity=1, type=<class 'int'>
+INFO:     178.207.176.227:35070 - "PATCH /orders/by-identifier/KKK000029/items/by-name HTTP/1.1" 404 Not Found
+INFO:     178.207.176.227:35070 - "GET /search/orders/KKK000029 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:79]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[80:88]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[89:90]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Received: identifier=KKK000029, product_name=холодильник, quantity=1, type=<class 'int'>
+Старый чек для заказа KKK000029 удалён
+INFO:     178.207.176.227:34114 - "POST /orders/by-identifier/KKK000029/items HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34114 - "GET /search/orders/KKK000029 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:79]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[80:88]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[89:90]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Received: identifier=KKK000029, product_name=холодильник, quantity=1, type=<class 'int'>
+Старый чек для заказа KKK000029 удалён
+INFO:     178.207.176.227:34899 - "POST /orders/by-identifier/KKK000029/items HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34899 - "GET /search/orders/KKK000029 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33636 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:79]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[80:88]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[89:90]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Received: identifier=KKK000029, product_name=Холодильник, quantity=1, type=<class 'int'>
+Старый чек для заказа KKK000029 удалён
+INFO:     185.125.100.40:44420 - "PATCH /orders/by-identifier/KKK000029/items/by-name HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33835 - "GET /clients HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55112 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44702 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47152 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33558 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:34364 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56932 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45898 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56818 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58314 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38582 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33872 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:49014 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47050 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32938 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58354 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41900 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35928 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42184 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56920 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34112 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51236 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55638 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40450 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35396 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41332 - "GET / HTTP/1.1" 200 OK
+INFO:     59.1.229.185:36308 - "GET / HTTP/1.0" 200 OK
+INFO:     127.0.0.1:35504 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58776 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55000 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52680 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56370 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40880 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42316 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59384 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48094 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49516 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40816 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48698 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49202 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54054 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59312 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47692 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46508 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58392 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37110 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36296 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51084 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36506 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58638 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51906 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45364 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44242 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33336 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44644 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52076 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55258 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60332 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36122 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48520 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58838 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37380 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49942 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60514 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60630 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42816 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59608 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45162 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45310 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56092 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59266 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43020 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50250 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53522 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53508 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49316 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60308 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43014 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44518 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47160 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49366 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55482 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48326 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52260 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38726 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52956 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:52780 - "OPTIONS /products?skip=0&limit=10 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:52796 - "OPTIONS /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:52810 - "GET /products?skip=0&limit=1 HTTP/1.1" 401 Unauthorized
+INFO:     185.125.100.40:59514 - "OPTIONS /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:59516 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:34156 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45920 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:37096 - "POST /login HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37096 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     178.207.176.227:33349 - "POST /login HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35237 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34904 - "GET /search/orders/RKHA000013 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33465 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33465 - "GET /search/orders/DMA000038 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:6]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[7:12]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Старый чек для заказа DMA000038 удалён
+INFO:     178.207.176.227:33465 - "PATCH /orders/by-identifier/DMA000038/status HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33465 - "GET /search/orders/DMA000038 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34396 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34396 - "GET /search/orders/DMA000038 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37036 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34353 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34136 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34136 - "GET /products?skip=0&limit=20 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35177 - "GET /products?skip=1&limit=20 HTTP/1.1" 200 OK
+INFO:     178.207.176.227:33821 - "GET /products?skip=2&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58922 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.227:35149 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.227:34813 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:12]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[13:21]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[22:24]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     178.207.176.227:34890 - "POST /login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:40418 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48164 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:33276 - "POST /login HTTP/1.1" 400 Bad Request
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     127.0.0.1:56768 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:53954 - "POST /login HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45350 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43672 - "GET /search/orders/DMA000038 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43672 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43672 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43672 - "GET /products?skip=0&limit=20 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39920 - "GET /uploads/Eu7NUER3mHg.jpg HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39906 - "GET /uploads/598_original.jpg HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39892 - "GET /uploads/r071klxl4x7dpti0dzvjsf98c8wd2gy6.jpg HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39898 - "GET /uploads/cel0pcerbt6b315aufs3xefj1tqj5aek.jpg HTTP/1.1" 200 OK
+INFO:     198.235.24.80:65200 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57960 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47140 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53538 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45212 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58162 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50190 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52534 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51872 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42198 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32844 - "GET / HTTP/1.1" 200 OK
