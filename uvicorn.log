@@ -7751,3 +7751,1106 @@ INFO:     127.0.0.1:40582 - "GET / HTTP/1.1" 200 OK
 INFO:     127.0.0.1:38646 - "GET / HTTP/1.1" 200 OK
 INFO:     127.0.0.1:53806 - "GET / HTTP/1.1" 200 OK
 INFO:     127.0.0.1:35900 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48372 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54958 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51160 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35444 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45972 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43014 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45034 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54598 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36728 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49288 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52036 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38904 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52386 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57130 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58508 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40394 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52962 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48402 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34934 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55114 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54214 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40734 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42738 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59400 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43598 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53234 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52534 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48118 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54252 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51298 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44388 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36938 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37156 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37718 - "GET / HTTP/1.1" 200 OK
+INFO:     205.210.31.168:64974 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60604 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58702 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45032 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40410 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37456 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55824 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32886 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37516 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36734 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47012 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46854 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45468 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39292 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:41188 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43390 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44858 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52988 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56268 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41450 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45266 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41708 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36034 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44938 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33948 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     45.131.155.254:59874 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33044 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55484 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51436 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52510 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35112 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45614 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49748 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42010 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:59884 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37714 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32944 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57270 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35724 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39138 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34440 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60786 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35748 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46152 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44946 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42156 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52022 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39106 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60038 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55862 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54536 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53976 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49830 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38206 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43608 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38044 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33170 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57952 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46554 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45306 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42986 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58454 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45992 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33016 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49158 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41204 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34506 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36260 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43010 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34978 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35640 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39550 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60472 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52880 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34460 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59018 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50300 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55184 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37704 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41038 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38232 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33178 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53658 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38748 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58836 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55836 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45476 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35118 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40318 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33770 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60208 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60674 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57524 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37732 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52020 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49366 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37600 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40158 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52880 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49328 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49120 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35174 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51424 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58452 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39970 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43834 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51270 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56184 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:57196 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47800 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33690 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37374 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37712 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50446 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58414 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36854 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45424 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38528 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60804 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:49066 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47076 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46212 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47486 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48794 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33868 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52820 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50534 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59908 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58276 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59594 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55726 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33612 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42952 - "GET / HTTP/1.1" 200 OK
+INFO:     147.185.132.61:61438 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58028 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32992 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57786 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36996 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53998 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50928 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38568 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37694 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60504 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42726 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42338 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48412 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36106 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50554 - "GET / HTTP/1.1" 200 OK
+INFO:     162.142.125.38:42626 - "GET / HTTP/1.1" 200 OK
+INFO:     162.142.125.38:42636 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     162.142.125.38:52906 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.38:58932 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:60338 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54946 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42040 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33946 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49536 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56992 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59236 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57630 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49736 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50326 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36848 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59376 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49874 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53246 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44116 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52466 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35188 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52702 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     178.207.176.239:7703 - "POST /login HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8865 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     85.140.5.10:21641 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     85.140.5.10:21641 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7106 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7106 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8538 - "GET /uploads/zZAl9waWN0dXJlNl9pZDE2NjY0MC5qcGcjKiMqIyojMTYwMCMqIyojKiMxNjAwIyojKiMqI2dvb2RzIyojKiMqIzAjKiMqIyojM%3D%3D.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.239:8484 - "GET /uploads/cel0pcerbt6b315aufs3xefj1tqj5aek.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.239:7263 - "GET /uploads/598_original.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.239:8701 - "GET /uploads/r071klxl4x7dpti0dzvjsf98c8wd2gy6.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.239:7106 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44200 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33230 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33528 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53646 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51072 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57114 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42538 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60228 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44908 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57470 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35294 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43814 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49792 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43410 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45144 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38010 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41490 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:47504 - "GET /docs HTTP/1.1" 200 OK
+INFO:     185.125.100.40:33246 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49482 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56382 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48154 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36510 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47340 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59820 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39382 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56334 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59512 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34664 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     45.131.155.254:39106 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41802 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58392 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52420 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:51098 - "GET / HTTP/1.1" 200 OK
+INFO:     147.185.132.165:61670 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44254 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57202 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43324 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44196 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60392 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55800 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55284 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50082 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50594 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57126 - "GET / HTTP/1.1" 200 OK
+INFO:     212.192.158.174:37716 - "GET / HTTP/1.1" 200 OK
+INFO:     212.192.158.174:36376 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53970 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50098 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40820 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:33452 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43740 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35512 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41050 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40752 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42588 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35194 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59656 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53684 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57260 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41466 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57284 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39044 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42830 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36200 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60760 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44548 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34496 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52562 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     85.142.100.11:47352 - "GET / HTTP/1.1" 200 OK
+INFO:     85.142.100.11:47354 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59636 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38434 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40452 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55748 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38992 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44552 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60996 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59676 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48370 - "OPTIONS /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48384 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 401 Unauthorized
+INFO:     185.125.100.40:48394 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:36806 - "POST /login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49472 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43000 - "POST /login HTTP/1.1" 200 OK
+INFO:     185.125.100.40:35036 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:35332 - "OPTIONS /search/orders/TTT000046 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:49254 - "GET /search/orders/TTT000046 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:49256 - "OPTIONS /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:49260 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:49274 - "GET /uploads/598_original.jpg HTTP/1.1" 200 OK
+INFO:     185.125.100.40:49284 - "GET /uploads/r071klxl4x7dpti0dzvjsf98c8wd2gy6.jpg HTTP/1.1" 200 OK
+INFO:     185.125.100.40:49316 - "GET /uploads/zZAl9waWN0dXJlNl9pZDE2NjY0MC5qcGcjKiMqIyojMTYwMCMqIyojKiMxNjAwIyojKiMqI2dvb2RzIyojKiMqIzAjKiMqIyojM%3D%3D.jpg HTTP/1.1" 200 OK
+INFO:     185.125.100.40:49300 - "GET /uploads/cel0pcerbt6b315aufs3xefj1tqj5aek.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39220 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:60678 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:56622 - "OPTIONS /products/by-name/image HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[42:61]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[63:85]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[89:111]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[155:174]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[176:248]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[250:262]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[264:274]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[278:10683]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2376]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2376]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2376]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2376]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2376]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2376]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2376]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2376]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2376]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2376]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2376]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2376]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:1188]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:3564]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2376]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:197]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+DEBUG:PIL.TiffImagePlugin:tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+DEBUG:PIL.TiffImagePlugin:tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 98 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+DEBUG:PIL.TiffImagePlugin:tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 106 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+DEBUG:PIL.TiffImagePlugin:tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+DEBUG:PIL.TiffImagePlugin:tag: Software (305) - type: string (2) Tag Location: 70 - Data Location: 114 - value: b'Adobe Photoshop 21.2 (Windows)\x00'
+DEBUG:PIL.TiffImagePlugin:tag: DateTime (306) - type: string (2) Tag Location: 82 - Data Location: 145 - value: b'2021:03:23 13:05:03\x00'
+DEBUG:PIL.TiffImagePlugin:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xa8'
+INFO:     185.125.100.40:56626 - "PUT /products/by-name/image HTTP/1.1" 200 OK
+INFO:     185.125.100.40:56640 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:56654 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7338 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7332 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8678 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8345 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7712 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39636 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57662 - "OPTIONS /products/by-name HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:7]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[8:240]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:57672 - "PUT /products/by-name HTTP/1.1" 200 OK
+INFO:     185.125.100.40:36644 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:36656 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[42:61]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[63:85]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[89:122]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[166:185]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[187:210]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[214:219]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[263:282]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[284:307]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[311:313]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[357:376]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[378:424]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[426:438]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[440:450]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[454:5065]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:37064 - "POST /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54344 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54354 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54364 - "GET /uploads/images.jpg HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7094 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7521 - "GET /uploads/images.jpg HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7698 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[42:61]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[63:85]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[89:120]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[164:183]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[185:208]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[212:217]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[261:280]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[282:305]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[309:311]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[355:374]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[376:426]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[428:440]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[442:452]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[456:10692]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:65340]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:1188]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:14256]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:9504]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2376]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:4752]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:4752]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:4752]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:26680]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:262144]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:40763]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:45038 - "POST /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45046 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:33396 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:33408 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 200 OK
+INFO:     185.125.100.40:33400 - "GET /uploads/images.jpg HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36288 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:53428 - "OPTIONS /products HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[42:61]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[63:85]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[89:112]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[156:175]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[177:200]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[204:212]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[256:275]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[277:300]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[304:306]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[350:369]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[371:422]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[424:436]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[438:448]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[452:11592]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:5152]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:5152]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:1288]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:1288]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:4486]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:53438 - "POST /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:53450 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:34200 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:34210 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:34212 - "GET /uploads/images.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:34184 - "GET /uploads/da_622_02_a.jpg HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8241 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8957 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8533 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8520 - "GET /uploads/da_622_02_a.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36114 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39382 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[42:61]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[63:85]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[89:124]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[168:187]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[189:212]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[216:221]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[265:284]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[286:309]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[313:314]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[358:377]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[379:429]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[431:443]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[445:455]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[459:3897]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:40056 - "POST /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43426 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43472 - "GET /uploads/images%20%281%29.jpg HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43440 - "GET /uploads/da_622_02_a.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:43468 - "GET /uploads/images.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:43456 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:43450 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:53428 - "OPTIONS /products HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[42:61]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[63:85]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[89:133]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[177:196]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[198:221]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[225:233]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[277:296]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[298:321]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[325:327]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[371:390]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[392:445]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[447:459]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[461:471]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[475:12269]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:844]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:53434 - "POST /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:56388 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:56408 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:56422 - "GET /uploads/images.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:56406 - "GET /uploads/images%20%281%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:56436 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:56394 - "GET /uploads/da_622_02_a.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:56446 - "GET /uploads/VC20M257AWREV.jpg HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[42:61]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[63:85]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[89:129]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[173:192]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[194:217]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[221:229]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[273:292]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[294:317]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[321:323]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[367:386]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[388:434]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[436:448]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[450:460]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[464:10692]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:27925]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:37600 - "POST /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:52248 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:52274 - "GET /uploads/VC20M257AWREV.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:52286 - "GET /uploads/images%20%281%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:52260 - "GET /uploads/1111-6.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60988 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[42:61]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[63:85]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[89:109]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[153:172]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[174:197]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[201:205]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[249:268]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[270:293]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[297:299]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[343:362]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[364:411]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[413:425]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[427:437]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[441:11790]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:21896]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:10304]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:1288]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:7728]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:5152]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:7728]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:5152]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:5152]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:1288]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:1288]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:7728]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:3864]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:3864]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:3864]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:5152]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:3864]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:3864]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:1564]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+DEBUG:PIL.TiffImagePlugin:tag: Make (271) - type: string (2) Tag Location: 22 - Data Location: 110 - value: b'Canon\x00'
+DEBUG:PIL.TiffImagePlugin:tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 116 - value: b'Canon EOS 80D\x00'
+DEBUG:PIL.TiffImagePlugin:tag: XResolution (282) - type: rational (5) Tag Location: 46 - Data Location: 130 - value: b',\x01\x00\x00\x01\x00\x00\x00'
+DEBUG:PIL.TiffImagePlugin:tag: YResolution (283) - type: rational (5) Tag Location: 58 - Data Location: 138 - value: b',\x01\x00\x00\x01\x00\x00\x00'
+DEBUG:PIL.TiffImagePlugin:tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+DEBUG:PIL.TiffImagePlugin:tag: Software (305) - type: string (2) Tag Location: 82 - Data Location: 146 - value: <table: 48 bytes>
+DEBUG:PIL.TiffImagePlugin:tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 194 - value: b'2020:06:17 13:22:33\x00'
+DEBUG:PIL.TiffImagePlugin:tag: ExifIFD (34665) - type: long (4) - value: b'\xd6\x00\x00\x00'
+INFO:     185.125.100.40:39988 - "POST /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39990 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:40000 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:40006 - "GET /uploads/images.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:40020 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:40052 - "GET /uploads/da_622_02_a.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:40036 - "GET /uploads/images%20%281%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:40042 - "GET /uploads/VC20M257AWREV.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:40056 - "GET /uploads/1111-6.jpg HTTP/1.1" 304 Not Modified
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[42:61]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[63:85]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[89:97]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[141:160]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[162:185]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[189:196]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[240:259]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[261:284]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[288:290]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[334:353]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[355:405]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[407:419]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[421:431]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[435:6488]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:39800 - "POST /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39816 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39856 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:39866 - "GET /uploads/images.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:39834 - "GET /uploads/VC20M257AWREV.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:39842 - "GET /uploads/images%20%281%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:39830 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:39848 - "GET /uploads/da_622_02_a.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:39880 - "GET /uploads/1111-6.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:37216 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37232 - "GET /uploads/VC20M257AWREV.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:37222 - "GET /uploads/1111-6.jpg HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:53226 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58904 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56020 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54186 - "OPTIONS /products?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54190 - "GET /products?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54248 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54234 - "GET /uploads/VC20M257AWREV.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54206 - "GET /uploads/da_622_02_a.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54264 - "GET /uploads/images%20%281%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54212 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54220 - "GET /uploads/images.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54266 - "GET /uploads/1111-6.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54286 - "GET /uploads/5IU6RAD.jpg HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54280 - "GET /uploads/images%20%282%29.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58628 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7886 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7886 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8394 - "GET /uploads/images%20%281%29.jpg HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8403 - "GET /uploads/VC20M257AWREV.jpg HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7415 - "GET /uploads/5IU6RAD.jpg HTTP/1.1" 200 OK
+INFO:     178.207.176.239:9030 - "GET /uploads/images%20%282%29.jpg HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7725 - "GET /uploads/1111-6.jpg HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     185.125.100.40:41964 - "OPTIONS /products HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[42:61]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[63:85]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[89:113]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[157:176]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[178:201]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[205:209]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[253:272]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[274:297]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[301:303]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[347:366]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[368:421]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[423:435]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[437:447]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[451:12269]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:1288]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:1288]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:1288]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:2576]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:1145]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:41976 - "POST /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54456 - "GET /products?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54500 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54484 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54506 - "GET /uploads/da_622_02_a.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54464 - "GET /uploads/images.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54476 - "GET /uploads/VC20M257AWREV.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54512 - "GET /uploads/images%20%281%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54548 - "GET /uploads/images%20%282%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54538 - "GET /uploads/AU_Comfort_03.jpg HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54532 - "GET /uploads/5IU6RAD.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54518 - "GET /uploads/1111-6.jpg HTTP/1.1" 304 Not Modified
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[42:61]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[63:85]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[89:114]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[158:177]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[179:202]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[206:214]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[258:277]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[279:302]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[306:307]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_part_begin with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[351:370]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[372:452]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_header_field with data[454:466]
+DEBUG:python_multipart.multipart:Calling on_header_value with data[468:478]
+DEBUG:python_multipart.multipart:Calling on_header_end with no data
+DEBUG:python_multipart.multipart:Calling on_headers_finished with no data
+DEBUG:python_multipart.multipart:Calling on_part_data with data[482:11591]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:1]
+DEBUG:python_multipart.multipart:Calling on_part_data with data[0:5069]
+DEBUG:python_multipart.multipart:Calling on_part_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:41602 - "POST /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:41608 - "GET /products?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:41632 - "GET /uploads/AU_Comfort_03.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:41624 - "GET /uploads/702fd5cb1cc861edee7c15ca0eea36e1fb8051bf.jpg HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39054 - "OPTIONS /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39066 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:47784 - "OPTIONS /products?skip=0&limit=10 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:47800 - "GET /products?skip=0&limit=10 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:47808 - "OPTIONS /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:47810 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:47812 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:33732 - "GET /products?skip=0&limit=10 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:33734 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:33746 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45684 - "OPTIONS /products?skip=0&limit=6 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45696 - "GET /products?skip=0&limit=6 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45712 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45728 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57640 - "OPTIONS /products?skip=6&limit=6 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57652 - "GET /products?skip=6&limit=6 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57664 - "GET /uploads/VC20M257AWREV.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:57670 - "GET /uploads/images%20%282%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:57656 - "GET /uploads/1111-6.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:57680 - "GET /uploads/images%20%281%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:57694 - "GET /uploads/5IU6RAD.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:57702 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57704 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57720 - "GET /products?skip=0&limit=6 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:35754 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45564 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:35758 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39218 - "OPTIONS /products?skip=0&limit=7 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39222 - "GET /products?skip=0&limit=7 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39224 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39232 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54638 - "OPTIONS /products?skip=7&limit=7 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54654 - "GET /products?skip=7&limit=7 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54682 - "GET /uploads/AU_Comfort_03.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54672 - "GET /uploads/702fd5cb1cc861edee7c15ca0eea36e1fb8051bf.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:54664 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54684 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54700 - "GET /products?skip=0&limit=7 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54714 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54716 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48718 - "GET /products?skip=7&limit=7 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48724 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48736 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48752 - "GET /products?skip=0&limit=7 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48768 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:44266 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:44274 - "GET /products?skip=7&limit=7 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:44284 - "GET /uploads/AU_Comfort_03.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:44288 - "GET /uploads/702fd5cb1cc861edee7c15ca0eea36e1fb8051bf.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:44282 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:44304 - "GET /products HTTP/1.1" 200 OK
+INFO:     178.207.176.239:9087 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.239:9033 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8524 - "GET /uploads/AU_Comfort_03.jpg HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8308 - "GET /uploads/702fd5cb1cc861edee7c15ca0eea36e1fb8051bf.jpg HTTP/1.1" 200 OK
+INFO:     185.125.100.40:40832 - "OPTIONS /products?skip=0&limit=8 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:40838 - "GET /products?skip=0&limit=8 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:40844 - "GET /uploads/da_622_02_a.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:40860 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:40870 - "GET /uploads/images.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:40874 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:40846 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:42288 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:42300 - "OPTIONS /products?skip=8&limit=8 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:42310 - "GET /products?skip=8&limit=8 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:42324 - "GET /uploads/702fd5cb1cc861edee7c15ca0eea36e1fb8051bf.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:42332 - "GET /uploads/AU_Comfort_03.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:42314 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48468 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:42130 - "GET /products?skip=0&limit=10 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:42132 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:42148 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:44940 - "OPTIONS /products?skip=0&limit=9 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:44944 - "GET /products?skip=0&limit=9 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:44958 - "GET /uploads/VC20M257AWREV.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:44960 - "GET /uploads/images%20%281%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:44956 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:44968 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:58638 - "OPTIONS /products?skip=9&limit=9 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:58646 - "GET /products?skip=9&limit=9 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:58686 - "GET /uploads/AU_Comfort_03.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58684 - "GET /uploads/702fd5cb1cc861edee7c15ca0eea36e1fb8051bf.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58690 - "GET /uploads/images%20%282%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58658 - "GET /uploads/5IU6RAD.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58670 - "GET /uploads/1111-6.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58662 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:58698 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:47434 - "GET /products?skip=0&limit=9 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:47436 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:47444 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:47452 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39658 - "OPTIONS /products?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39668 - "GET /products?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39670 - "GET /uploads/AU_Comfort_03.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:39682 - "GET /uploads/702fd5cb1cc861edee7c15ca0eea36e1fb8051bf.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.239:8969 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8969 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7505 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8226 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8226 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8226 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8672 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7425 - "PUT /clients/by-name HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7218 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7425 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8167 - "PUT /clients/by-name HTTP/1.1" 200 OK
+INFO:     178.207.176.239:7957 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.239:8167 - "GET /clients HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39764 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:46278 - "OPTIONS /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:46292 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39762 - "GET /products?skip=0&limit=9 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39806 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:39774 - "OPTIONS /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39818 - "GET /uploads/da_622_02_a.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:39804 - "GET /uploads/images.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:39776 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:39788 - "GET /uploads/images%20%281%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:39820 - "GET /uploads/VC20M257AWREV.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:39836 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39852 - "OPTIONS /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39854 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57500 - "GET /products?skip=9&limit=9 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57536 - "GET /uploads/702fd5cb1cc861edee7c15ca0eea36e1fb8051bf.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:57554 - "GET /uploads/AU_Comfort_03.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:57516 - "GET /uploads/1111-6.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:57546 - "GET /uploads/5IU6RAD.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:57556 - "GET /uploads/images%20%282%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:57524 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45756 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45764 - "GET /products?skip=0&limit=9 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45770 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45776 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:51064 - "OPTIONS /orders HTTP/1.1" 200 OK
+INFO:     185.125.100.40:51070 - "POST /orders HTTP/1.1" 200 OK
+INFO:     185.125.100.40:51080 - "OPTIONS /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:51092 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:35012 - "OPTIONS /search/orders/DMA000049 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:35020 - "GET /search/orders/DMA000049 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:46268 - "OPTIONS /orders/DMA000049/receipt HTTP/1.1" 200 OK
+INFO:     185.125.100.40:35054 - "OPTIONS /orders/DMA000049/receipt HTTP/1.1" 200 OK
+INFO:     185.125.100.40:49228 - "GET /orders/DMA000049/receipt HTTP/1.1" 200 OK
+INFO:     185.125.100.40:49230 - "GET /orders/DMA000049/receipt HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45642 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:36526 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46586 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35538 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53904 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37178 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54786 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45166 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43832 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47294 - "GET / HTTP/1.1" 200 OK
