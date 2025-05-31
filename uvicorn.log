@@ -10131,3 +10131,1368 @@ INFO:     205.210.31.100:57704 - "GET / HTTP/1.1" 200 OK
 INFO:     127.0.0.1:60746 - "GET / HTTP/1.1" 200 OK
 INFO:     127.0.0.1:40282 - "GET / HTTP/1.1" 200 OK
 INFO:     127.0.0.1:55690 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47978 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34488 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38330 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46992 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43236 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50996 - "GET / HTTP/1.1" 200 OK
+INFO:     206.168.34.92:37432 - "GET / HTTP/1.1" 200 OK
+INFO:     206.168.34.92:37468 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     206.168.34.92:37484 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     206.168.34.92:51052 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:37586 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48714 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37468 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53440 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37444 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35420 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58798 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54642 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41204 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32774 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45200 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53732 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41286 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54486 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56752 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47054 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45238 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36300 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47434 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34434 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37626 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40594 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44314 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50546 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48616 - "GET / HTTP/1.1" 200 OK
+INFO:     147.185.132.120:63360 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44062 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53312 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39898 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56184 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60582 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57800 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42674 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48508 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38556 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53716 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50294 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60574 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37424 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41688 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45354 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52170 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55472 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58450 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45202 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52960 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:55934 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40398 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52942 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56666 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34196 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53766 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38238 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38592 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58892 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48918 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49960 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44864 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49028 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34398 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54158 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:57420 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54272 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47818 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41704 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40304 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58528 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50720 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37040 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50812 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44462 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39734 - "GET / HTTP/1.1" 200 OK
+INFO:     157.245.45.135:38904 - "GET /squid-internal-mgr/cachemgr.cgi HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37616 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56250 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34318 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42518 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58890 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37382 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57766 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:33676 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49604 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39136 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34068 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42876 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46876 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40142 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58304 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53622 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56446 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36122 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36238 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40048 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49432 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48486 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51970 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35160 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43356 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46602 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45764 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38072 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48296 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57856 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53394 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58116 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42762 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46342 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58712 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44406 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36852 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44758 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43356 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33826 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50428 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51408 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37016 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58646 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39648 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48536 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:58366 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37792 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38106 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59186 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39372 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39112 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:52734 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42968 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37784 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54470 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58122 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46792 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37132 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46416 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44714 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47532 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54288 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55708 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50432 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34292 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47262 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39624 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50096 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48862 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60410 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35704 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46218 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38688 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58626 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43158 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47468 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59948 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41472 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59560 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45392 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53170 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58686 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47760 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36842 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48430 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38698 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50324 - "GET / HTTP/1.1" 200 OK
+INFO:     205.210.31.220:64872 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53738 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60012 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43112 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57774 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39296 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48154 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41140 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58602 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50538 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:43984 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:33768 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54332 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50450 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41292 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40506 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60260 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49986 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52598 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54002 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35078 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51798 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44640 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44980 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36944 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43364 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38114 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57230 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50856 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43178 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44852 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46570 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39948 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43518 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36398 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59768 - "GET / HTTP/1.1" 200 OK
+INFO:     205.210.31.225:63424 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45328 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48312 - "GET / HTTP/1.1" 200 OK
+INFO:     84.104.102.184:52524 - "GET / HTTP/1.0" 200 OK
+INFO:     127.0.0.1:48058 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59006 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44242 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58972 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55160 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42034 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38316 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59276 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39124 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50870 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42640 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59426 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44648 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60380 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49480 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38564 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58762 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58618 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39280 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47684 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57616 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45608 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51976 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40320 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57320 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44220 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38604 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59460 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45716 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58494 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56760 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45052 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60054 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48826 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34882 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55570 - "GET / HTTP/1.1" 200 OK
+INFO:     172.104.11.4:22758 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52888 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59186 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58098 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44582 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53256 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50850 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39516 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44388 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45744 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56538 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56092 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39920 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37332 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56446 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48164 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55558 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47284 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38060 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50398 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45476 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35980 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41036 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39362 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50686 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     47.84.180.200:53242 - "GET / HTTP/1.1" 200 OK
+INFO:     47.84.180.200:53374 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56366 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60352 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:34776 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38568 - "GET / HTTP/1.1" 200 OK
+INFO:     167.94.146.60:40176 - "GET / HTTP/1.1" 200 OK
+INFO:     167.94.146.60:33016 - "GET / HTTP/1.1" 200 OK
+INFO:     167.94.146.60:33028 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     167.94.146.60:33038 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.60:52694 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:42862 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46652 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36036 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56092 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46042 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53978 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.54:34218 - "GET / HTTP/1.1" 200 OK
+INFO:     167.94.146.54:34236 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     167.94.146.54:34240 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.54:34318 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:53276 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49950 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48542 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37702 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:54516 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:59880 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     91.196.152.5:50521 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49846 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:43852 - "GET / HTTP/1.1" 200 OK
+INFO:     91.196.152.98:52905 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51128 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:42504 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46748 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35136 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44476 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55662 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51246 - "GET / HTTP/1.1" 200 OK
+INFO:     103.203.57.20:51796 - "GET / HTTP/1.1" 200 OK
