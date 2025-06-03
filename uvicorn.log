@@ -12239,3 +12239,934 @@ INFO:     180.149.126.2:7227 - "GET / HTTP/1.1" 200 OK
 INFO:     127.0.0.1:48776 - "GET / HTTP/1.1" 200 OK
 INFO:     127.0.0.1:42468 - "GET / HTTP/1.1" 200 OK
 INFO:     127.0.0.1:39128 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44992 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52022 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43158 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42066 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46602 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56868 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56760 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44536 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39604 - "GET / HTTP/1.1" 200 OK
+INFO:     180.149.126.3:54879 - "GET /c/ HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34696 - "GET / HTTP/1.1" 200 OK
+INFO:     176.65.149.182:48772 - "CONNECT ipv4-internet.yandex.net%3A443 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57616 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42510 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40688 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37714 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50738 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56214 - "GET / HTTP/1.1" 200 OK
+INFO:     104.236.75.167:49344 - "GET /squid-internal-mgr/cachemgr.cgi HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34130 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51966 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34988 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59534 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36892 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48656 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33048 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55520 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43718 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53508 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42782 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34040 - "GET / HTTP/1.1" 200 OK
+INFO:     87.236.176.101:40173 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49816 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44692 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57900 - "GET / HTTP/1.1" 200 OK
+INFO:     205.210.31.6:58090 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34726 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46446 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59612 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37590 - "GET / HTTP/1.1" 200 OK
+INFO:     138.197.15.182:42948 - "GET /aaa9 HTTP/1.1" 404 Not Found
+INFO:     138.197.15.182:42962 - "GET /aab8 HTTP/1.1" 404 Not Found
+INFO:     138.197.15.182:42968 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60716 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38964 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43688 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46584 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39062 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43074 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49752 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43312 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38852 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39462 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33750 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33286 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40104 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47530 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37626 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52156 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57670 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51432 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35180 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53068 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38888 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38920 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42720 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53050 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38130 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41930 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56174 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50400 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34200 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58034 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54310 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43318 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60004 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41818 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47610 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58220 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44190 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48124 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45498 - "GET / HTTP/1.1" 200 OK
+INFO:     205.210.31.49:59564 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36118 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50944 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47480 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39594 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42954 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44676 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53438 - "GET / HTTP/1.1" 200 OK
+INFO:     137.74.246.152:12734 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52614 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36948 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45248 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54580 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60380 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60694 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52412 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     152.32.202.244:33432 - "GET / HTTP/1.1" 200 OK
+INFO:     152.32.202.244:33442 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     152.32.202.244:51552 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     152.32.202.244:51560 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+INFO:     152.32.202.244:51566 - "GET /config.json HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:42744 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42478 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53850 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58150 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57824 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34450 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42814 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46526 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60052 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49674 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40706 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57964 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34246 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54794 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38058 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58950 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59018 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:57826 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35690 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47252 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34060 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:45620 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37108 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55720 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33294 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44198 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53120 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35852 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53374 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44758 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36956 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51794 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37688 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39562 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40426 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58514 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46010 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47570 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52816 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54976 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46856 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55020 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52276 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52482 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34982 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51262 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36978 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53706 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54338 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41884 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42446 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59396 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44412 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39692 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44104 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33834 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45388 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43596 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43092 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40966 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56370 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40126 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38778 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32936 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     45.131.155.254:38164 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50352 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59736 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59508 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54866 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54586 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46916 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36422 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:38710 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35988 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52206 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:50418 - "GET /docs HTTP/1.1" 200 OK
+INFO:     185.125.100.40:46264 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59146 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:56878 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:36964 - "POST /login HTTP/1.1" 200 OK
+INFO:     185.125.100.40:36614 - "OPTIONS /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:36618 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39260 - "GET / HTTP/1.1" 200 OK
+INFO:     205.210.31.71:65098 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40616 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34398 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47850 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39456 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48074 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47884 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     118.212.122.126:10871 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33330 - "GET / HTTP/1.1" 200 OK
+INFO:     1.83.125.17:15748 - "GET / HTTP/1.1" 200 OK
+INFO:     153.0.87.22:16013 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     178.207.176.228:30814 - "POST /login HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30190 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50952 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43240 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46086 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29515 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30738 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29941 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29460 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29460 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30743 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29945 - "DELETE /clients/3 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29945 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29945 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31176 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/middleware/errors.py", line 187, in __call__
+    raise exc
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/middleware/errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 714, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 734, in app
+    await route.handle(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 73, in app
+    response = await f(request)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/fastapi/routing.py", line 327, in app
+    content = await serialize_response(
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/fastapi/routing.py", line 176, in serialize_response
+    raise ResponseValidationError(
+fastapi.exceptions.ResponseValidationError: 8 validation errors:
+  {'type': 'int_type', 'loc': ('response', 10, 'client_id'), 'msg': 'Input should be a valid integer', 'input': None}
+  {'type': 'model_attributes_type', 'loc': ('response', 10, 'client'), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': None}
+  {'type': 'int_type', 'loc': ('response', 11, 'client_id'), 'msg': 'Input should be a valid integer', 'input': None}
+  {'type': 'model_attributes_type', 'loc': ('response', 11, 'client'), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': None}
+  {'type': 'int_type', 'loc': ('response', 12, 'client_id'), 'msg': 'Input should be a valid integer', 'input': None}
+  {'type': 'model_attributes_type', 'loc': ('response', 12, 'client'), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': None}
+  {'type': 'int_type', 'loc': ('response', 13, 'client_id'), 'msg': 'Input should be a valid integer', 'input': None}
+  {'type': 'model_attributes_type', 'loc': ('response', 13, 'client'), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': None}
+
+INFO:     178.207.176.228:29432 - "GET /search/orders/RKHA000023 HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/middleware/errors.py", line 187, in __call__
+    raise exc
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/middleware/errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 714, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 734, in app
+    await route.handle(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 73, in app
+    response = await f(request)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/fastapi/routing.py", line 327, in app
+    content = await serialize_response(
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/fastapi/routing.py", line 176, in serialize_response
+    raise ResponseValidationError(
+fastapi.exceptions.ResponseValidationError: 2 validation errors:
+  {'type': 'int_type', 'loc': ('response', 'client_id'), 'msg': 'Input should be a valid integer', 'input': None}
+  {'type': 'model_attributes_type', 'loc': ('response', 'client'), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': None}
+
+INFO:     185.125.100.40:38770 - "GET /orders?skip=0&limit=100 HTTP/1.1" 401 Unauthorized
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:10]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[11:19]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[20:28]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[29:33]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[34:42]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[43:48]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:42722 - "POST /login HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48088 - "GET /orders?skip=0&limit=100 HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/middleware/errors.py", line 187, in __call__
+    raise exc
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/middleware/errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 714, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 734, in app
+    await route.handle(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 73, in app
+    response = await f(request)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/fastapi/routing.py", line 327, in app
+    content = await serialize_response(
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/fastapi/routing.py", line 176, in serialize_response
+    raise ResponseValidationError(
+fastapi.exceptions.ResponseValidationError: 8 validation errors:
+  {'type': 'int_type', 'loc': ('response', 10, 'client_id'), 'msg': 'Input should be a valid integer', 'input': None}
+  {'type': 'model_attributes_type', 'loc': ('response', 10, 'client'), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': None}
+  {'type': 'int_type', 'loc': ('response', 11, 'client_id'), 'msg': 'Input should be a valid integer', 'input': None}
+  {'type': 'model_attributes_type', 'loc': ('response', 11, 'client'), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': None}
+  {'type': 'int_type', 'loc': ('response', 12, 'client_id'), 'msg': 'Input should be a valid integer', 'input': None}
+  {'type': 'model_attributes_type', 'loc': ('response', 12, 'client'), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': None}
+  {'type': 'int_type', 'loc': ('response', 13, 'client_id'), 'msg': 'Input should be a valid integer', 'input': None}
+  {'type': 'model_attributes_type', 'loc': ('response', 13, 'client'), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': None}
+
+INFO:     127.0.0.1:56304 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30465 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/middleware/errors.py", line 187, in __call__
+    raise exc
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/middleware/errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 714, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 734, in app
+    await route.handle(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 73, in app
+    response = await f(request)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/fastapi/routing.py", line 327, in app
+    content = await serialize_response(
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/fastapi/routing.py", line 176, in serialize_response
+    raise ResponseValidationError(
+fastapi.exceptions.ResponseValidationError: 8 validation errors:
+  {'type': 'int_type', 'loc': ('response', 10, 'client_id'), 'msg': 'Input should be a valid integer', 'input': None}
+  {'type': 'model_attributes_type', 'loc': ('response', 10, 'client'), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': None}
+  {'type': 'int_type', 'loc': ('response', 11, 'client_id'), 'msg': 'Input should be a valid integer', 'input': None}
+  {'type': 'model_attributes_type', 'loc': ('response', 11, 'client'), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': None}
+  {'type': 'int_type', 'loc': ('response', 12, 'client_id'), 'msg': 'Input should be a valid integer', 'input': None}
+  {'type': 'model_attributes_type', 'loc': ('response', 12, 'client'), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': None}
+  {'type': 'int_type', 'loc': ('response', 13, 'client_id'), 'msg': 'Input should be a valid integer', 'input': None}
+  {'type': 'model_attributes_type', 'loc': ('response', 13, 'client'), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': None}
+
+Чек для заказа RKHA000013 удалён
+INFO:     185.125.100.40:48330 - "DELETE /orders/RKHA000013 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:52562 - "DELETE /orders/RKHA000031 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:56762 - "DELETE /orders/RKHA000023 HTTP/1.1" 200 OK
+Чек для заказа RKHA000012 удалён
+INFO:     185.125.100.40:37852 - "DELETE /orders/RKHA000012 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29401 - "GET /uploads/da_622_02_a.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.228:29546 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.228:30209 - "GET /uploads/zZAl9waWN0dXJlNl9pZDE2NjY0MC5qcGcjKiMqIyojMTYwMCMqIyojKiMxNjAwIyojKiMqI2dvb2RzIyojKiMqIzAjKiMqIyojM%3D%3D.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.228:30770 - "GET /uploads/images.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.228:30468 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.228:30513 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29401 - "GET /uploads/images%20%281%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.228:29546 - "GET /uploads/VC20M257AWREV.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.228:30209 - "GET /uploads/1111-6.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.228:30513 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51030 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43128 - "OPTIONS /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43136 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:44090 - "OPTIONS /clients/by-name HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:10]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[11:41]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[42:51]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[52:106]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Searching for client with first_name='Вадим', last_name='Зиятдинов'
+Found 1 matching clients: ['Вадим Зиятдинов']
+Client found: Вадим Зиятдинов, ID: 19
+Found 3 orders for client ID 19
+Processing order ID 45
+Found 1 order items for order ID 45
+Processing order item ID 61, product ID 4, quantity 1
+Updating stock for product ID 4: current stock 15, adding 1
+Processing order ID 48
+Found 1 order items for order ID 48
+Processing order item ID 64, product ID 5, quantity 1
+Updating stock for product ID 5: current stock 9, adding 1
+Processing order ID 50
+Found 1 order items for order ID 50
+Processing order item ID 79, product ID 5, quantity 1
+Updating stock for product ID 5: current stock 10, adding 1
+Deleting client ID 19
+Client deleted successfully
+INFO:     185.125.100.40:44098 - "DELETE /clients/by-name HTTP/1.1" 200 OK
+INFO:     185.125.100.40:44110 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:40178 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:40186 - "OPTIONS /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:40198 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55684 - "GET / HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'crud.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [156357]
+INFO:     Will watch for changes in these directories: ['/root/fastapi_app']
+ERROR:    [Errno 98] Address already in use
+INFO:     Started server process [382978]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Stopping reloader process [100032]
+INFO:     Will watch for changes in these directories: ['/root/fastapi_app']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [383096] using StatReload
+INFO:     Started server process [383098]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/server.py", line 70, in serve
+    await self._serve(sockets)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/server.py", line 85, in _serve
+    await self.startup(sockets=sockets)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/server.py", line 135, in startup
+    server = await loop.create_server(create_protocol, sock=sock, ssl=config.ssl, backlog=config.backlog)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 1540, in create_server
+    server._start_serving()
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 318, in _start_serving
+    sock.listen(self._backlog)
+OSError: [Errno 98] Address already in use
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/starlette/routing.py", line 699, in lifespan
+    await receive()
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/lifespan/on.py", line 137, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+Process SpawnProcess-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/_subprocess.py", line 80, in subprocess_started
+    target(sockets=sockets)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/server.py", line 66, in run
+    return asyncio.run(self.serve(sockets=sockets))
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/server.py", line 70, in serve
+    await self._serve(sockets)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/server.py", line 85, in _serve
+    await self.startup(sockets=sockets)
+  File "/root/fastapi_app/venv/lib/python3.10/site-packages/uvicorn/server.py", line 135, in startup
+    server = await loop.create_server(create_protocol, sock=sock, ssl=config.ssl, backlog=config.backlog)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 1540, in create_server
+    server._start_serving()
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 318, in _start_serving
+    sock.listen(self._backlog)
+OSError: [Errno 98] Address already in use
+INFO:     Stopping reloader process [383096]
+INFO:     Will watch for changes in these directories: ['/root/fastapi_app']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [383402] using StatReload
+INFO:     Started server process [383404]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:54580 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:51340 - "GET /docs HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57376 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57386 - "OPTIONS /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57394 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31194 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31194 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31189 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30211 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:16]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[17:25]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[26:31]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:51164 - "POST /login HTTP/1.1" 400 Bad Request
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+DEBUG:passlib.handlers.bcrypt:detected 'bcrypt' backend, version '3.2.0'
+DEBUG:passlib.handlers.bcrypt:'bcrypt' backend lacks $2$ support, enabling workaround
+INFO:     185.125.100.40:35768 - "POST /login HTTP/1.1" 200 OK
+INFO:     185.125.100.40:40954 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30479 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30274 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29340 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30028 - "GET /clients HTTP/1.1" 200 OK
+Client found: Клиентов Клиент, ID: 1
+Found 5 orders for client ID 1
+Processing order ID 11
+Found 1 order items for order ID 11
+Processing order item ID 8, product ID 2, quantity 3
+Updating stock for product ID 2: current stock 5, adding 3
+Processing order ID 44
+Found 1 order items for order ID 44
+Processing order item ID 60, product ID 5, quantity 2
+Updating stock for product ID 5: current stock 11, adding 2
+Processing order ID 29
+Found 1 order items for order ID 29
+Processing order item ID 50, product ID 2, quantity 1
+Updating stock for product ID 2: current stock 8, adding 1
+Processing order ID 2
+Found 2 order items for order ID 2
+Processing order item ID 1, product ID 2, quantity 1
+Updating stock for product ID 2: current stock 9, adding 1
+Processing order item ID 34, product ID 4, quantity 2
+Updating stock for product ID 4: current stock 16, adding 2
+Processing order ID 3
+Found 1 order items for order ID 3
+Processing order item ID 2, product ID 2, quantity 3
+Updating stock for product ID 2: current stock 10, adding 3
+Deleting client ID 1
+Client deleted successfully
+INFO:     178.207.176.228:29588 - "DELETE /clients/1 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29588 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29985 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29482 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30226 - "GET /uploads/5IU6RAD.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.228:30226 - "GET /uploads/images%20%282%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.228:29296 - "GET /uploads/AU_Comfort_03.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.228:30122 - "GET /uploads/702fd5cb1cc861edee7c15ca0eea36e1fb8051bf.jpg HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:54240 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30356 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30357 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30958 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30102 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30137 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30958 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31065 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55466 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31065 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30186 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29721 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30980 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30447 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29962 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29588 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29588 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44744 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29590 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29765 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29620 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29590 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29590 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31072 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29356 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31072 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29265 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31072 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30409 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30657 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30409 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30108 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30409 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29305 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30997 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40372 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30335 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29305 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29305 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43462 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43446 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43470 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43446 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43508 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:43492 - "GET /uploads/598_original.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:43510 - "GET /uploads/images.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:43480 - "GET /uploads/cel0pcerbt6b315aufs3xefj1tqj5aek.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:43522 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:43480 - "GET /uploads/da_622_02_a.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:37520 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37520 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:46988 - "GET /uploads/images%20%281%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:46976 - "GET /uploads/VC20M257AWREV.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.228:29419 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29419 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44156 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31174 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31174 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31174 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29923 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29690 - "POST /orders HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29690 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29690 - "GET /search/orders/DMA000051 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29690 - "GET /orders/DMA000051/receipt HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29491 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31194 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29272 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29406 - "PUT /clients/by-name HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30072 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30072 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30072 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30973 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30459 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29474 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54146 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30083 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29824 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30834 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29824 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29460 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29896 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29896 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30548 - "GET /clients HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53078 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30145 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30325 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46826 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29446 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57996 - "OPTIONS /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:58004 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37228 - "OPTIONS /search/orders/DMA000010 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37238 - "GET /search/orders/DMA000010 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37250 - "OPTIONS /orders/by-identifier/DMA000010/status HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:6]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[7:14]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Старый чек для заказа DMA000010 удалён
+INFO:     185.125.100.40:37146 - "PATCH /orders/by-identifier/DMA000010/status HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37156 - "GET /search/orders/DMA000010 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39338 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:60356 - "OPTIONS /clients HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35974 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:60372 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:53462 - "OPTIONS /products?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:53478 - "GET /products?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:53502 - "GET /uploads/AU_Comfort_03.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:53488 - "GET /uploads/598_original.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:53516 - "GET /uploads/images.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:53498 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:53482 - "GET /uploads/images%20%282%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:53526 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:55746 - "GET /uploads/5IU6RAD.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:55796 - "GET /uploads/da_622_02_a.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:55748 - "GET /uploads/702fd5cb1cc861edee7c15ca0eea36e1fb8051bf.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:55756 - "GET /uploads/images%20%281%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:55770 - "GET /uploads/1111-6.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:55784 - "GET /uploads/VC20M257AWREV.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:55808 - "GET /uploads/zZAl9waWN0dXJlNl9pZDE2NjY0MC5qcGcjKiMqIyojMTYwMCMqIyojKiMxNjAwIyojKiMqI2dvb2RzIyojKiMqIzAjKiMqIyojM%3D%3D.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:46592 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55014 - "OPTIONS /products?skip=0&limit=9 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55024 - "GET /products?skip=0&limit=9 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55026 - "OPTIONS /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55034 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55046 - "OPTIONS /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55056 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:50082 - "GET /products?skip=0&limit=10 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57894 - "GET /products?skip=0&limit=25 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43304 - "OPTIONS /products?skip=9&limit=9 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43318 - "GET /products?skip=9&limit=9 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43334 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:47192 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55208 - "GET /products?skip=0&limit=9 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55222 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55224 - "GET /products HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50582 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29615 - "GET /clients HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:10]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[11:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:23]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[24:26]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[27:38]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[39:41]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[42:52]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[53:63]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[64:69]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[70:71]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[72:79]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[80:81]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     178.207.176.228:30458 - "POST /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31252 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31252 - "GET /clients HTTP/1.1" 200 OK
+Client found: te te, ID: 20
+Found 0 orders for client ID 20
+Deleting client ID 20
+Client deleted successfully
+INFO:     178.207.176.228:30458 - "DELETE /clients/20 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31252 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:34450 - "GET /products?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48450 - "GET /clients HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50090 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54752 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37536 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51654 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54666 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58144 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40336 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38904 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39470 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34376 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47718 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43786 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42676 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37148 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37910 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55884 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55138 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37378 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45970 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49334 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47016 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51470 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53282 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47904 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37636 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41506 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42896 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39422 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44026 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37690 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45428 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50958 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33830 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54986 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47126 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60992 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     8.222.170.59:49318 - "GET / HTTP/1.1" 200 OK
+INFO:     8.222.170.59:50266 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     123.160.221.132:22940 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47450 - "GET / HTTP/1.1" 200 OK
+INFO:     192.197.201.114:46330 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46426 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41430 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37412 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59036 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37494 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54214 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33590 - "GET / HTTP/1.1" 200 OK
+INFO:     198.235.24.176:59918 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33244 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50110 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35134 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36720 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43342 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52484 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42862 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53850 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51614 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33196 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57068 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53132 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32950 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44748 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51044 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51954 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40638 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52192 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44298 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39100 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54306 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41350 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45550 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49836 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47688 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49820 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54684 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47846 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37306 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59408 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46698 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55600 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49706 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46310 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44852 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56780 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55868 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47360 - "GET / HTTP/1.1" 200 OK
+INFO:     34.127.103.180:59492 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39456 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60016 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53610 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35442 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35324 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40526 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38934 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54156 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48548 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48954 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35912 - "GET / HTTP/1.1" 200 OK

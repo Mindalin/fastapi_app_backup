@@ -312,9 +312,49 @@ def update_client(db: Session, client_id: int, client: schemas.ClientCreate):
 def delete_client(db: Session, client_id: int):
     db_client = db.query(models.Client).filter(models.Client.id == client_id).first()
     if not db_client:
+        print(f"Client ID {client_id} not found in database")
         return None
+    
+    print(f"Client found: {db_client.first_name} {db_client.last_name}, ID: {db_client.id}")
+    
+    # Находим все заказы клиента
+    orders = db.query(models.Order).filter(models.Order.client_id == client_id).all()
+    print(f"Found {len(orders)} orders for client ID {client_id}")
+    
+    # Обрабатываем каждый заказ
+    for order in orders:
+        print(f"Processing order ID {order.id}")
+        # Находим все элементы заказа
+        order_items = db.query(models.OrderItem).filter(models.OrderItem.order_id == order.id).all()
+        print(f"Found {len(order_items)} order items for order ID {order.id}")
+        
+        # Обрабатываем каждый элемент заказа
+        for item in order_items:
+            print(f"Processing order item ID {item.id}, product ID {item.product_id}, quantity {item.quantity}")
+            # Находим продукт и увеличиваем stock
+            product = db.query(models.Product).filter(models.Product.id == item.product_id).first()
+            if product:
+                print(f"Updating stock for product ID {product.id}: current stock {product.stock}, adding {item.quantity}")
+                product.stock += item.quantity  # Увеличиваем запас
+            else:
+                print(f"Product ID {item.product_id} not found")
+            # Удаляем элемент заказа
+            db.delete(item)
+        # Удаляем сам заказ
+        db.delete(order)
+    
+    # Удаляем клиента
+    print(f"Deleting client ID {client_id}")
     db.delete(db_client)
-    db.commit()
+    
+    try:
+        db.commit()
+        print("Client deleted successfully")
+    except Exception as e:
+        print(f"Error committing changes: {e}")
+        db.rollback()
+        raise
+    
     return db_client
 
 def get_clients(db: Session, skip: int = 0, limit: int = 10):
