@@ -13170,3 +13170,777 @@ INFO:     127.0.0.1:54156 - "GET / HTTP/1.1" 200 OK
 INFO:     127.0.0.1:48548 - "GET / HTTP/1.1" 200 OK
 INFO:     127.0.0.1:48954 - "GET / HTTP/1.1" 200 OK
 INFO:     127.0.0.1:35912 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49802 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43140 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46902 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55142 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35826 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44642 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53272 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43744 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38346 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41544 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53410 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57358 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41264 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47822 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58006 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53974 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34468 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37624 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58872 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44732 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57650 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45182 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59364 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39776 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47118 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45256 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50134 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38684 - "GET / HTTP/1.1" 200 OK
+INFO:     89.248.168.227:60360 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48848 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36250 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49460 - "GET / HTTP/1.1" 200 OK
+INFO:     205.210.31.162:57478 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41604 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50742 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54686 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33762 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41280 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:49508 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38940 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42602 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49922 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34118 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39146 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39228 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49794 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52258 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48754 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41718 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46132 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34536 - "GET / HTTP/1.1" 200 OK
+INFO:     206.168.34.55:56872 - "GET / HTTP/1.1" 200 OK
+INFO:     206.168.34.55:45208 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     206.168.34.55:50680 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     206.168.34.55:43942 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     206.168.34.55:42438 - "GET /wiki HTTP/1.1" 404 Not Found
+INFO:     206.168.34.55:42454 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:51484 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48202 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51762 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53452 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54794 - "GET / HTTP/1.1" 200 OK
+INFO:     205.210.31.66:62982 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41002 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37800 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54286 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47138 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56292 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37068 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60400 - "GET / HTTP/1.1" 200 OK
+INFO:     103.203.57.20:34968 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38704 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38298 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49432 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46886 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42352 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59886 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52024 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35182 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54018 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48130 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55144 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43484 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49436 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47462 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55598 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34286 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42668 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50226 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36986 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45800 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36670 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57278 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58048 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43498 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60492 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51880 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40376 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57428 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:48454 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37726 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45338 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49070 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46966 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60854 - "GET / HTTP/1.1" 200 OK
+INFO:     68.183.194.251:34706 - "GET / HTTP/1.1" 200 OK
+INFO:     68.183.194.251:34712 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40268 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47834 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33386 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39806 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50510 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33336 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42790 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34062 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42560 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55606 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44416 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52168 - "GET / HTTP/1.1" 200 OK
+INFO:     3.149.59.26:59380 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46916 - "GET / HTTP/1.1" 200 OK
+INFO:     3.149.59.26:43590 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:48560 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:46506 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35068 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53232 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37990 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59062 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54314 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37598 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37330 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38000 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40782 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38030 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51636 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35542 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54022 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35520 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37870 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60240 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54932 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44978 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37488 - "OPTIONS /search/clients?first_name=%D0%9C%D0%B8%D0%BD%D0%B3%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2&last_name=%D0%94%D0%B0%D0%BD%D0%B8%D1%80 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37502 - "GET /search/clients?first_name=%D0%9C%D0%B8%D0%BD%D0%B3%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2&last_name=%D0%94%D0%B0%D0%BD%D0%B8%D1%80 HTTP/1.1" 401 Unauthorized
+INFO:     185.125.100.40:38580 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:38596 - "POST /login HTTP/1.1" 200 OK
+INFO:     185.125.100.40:60044 - "OPTIONS /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:60058 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55700 - "OPTIONS /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55712 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45838 - "GET /search/clients?first_name=%D0%9C%D0%B8%D0%BD%D0%B3%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2&last_name=%D0%94%D0%B0%D0%BD%D0%B8%D1%80 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45070 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59332 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47336 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33322 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48450 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59634 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48806 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54152 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42552 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60142 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     45.131.155.254:43972 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44722 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51514 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36086 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45412 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38794 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49240 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54582 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43770 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:53788 - "OPTIONS /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:53798 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45878 - "OPTIONS /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45892 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46100 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39012 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30975 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 401 Unauthorized
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:10]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[11:19]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[20:21]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     178.207.176.228:30396 - "POST /login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:39984 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35054 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52116 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:34198 - "OPTIONS /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:34214 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52836 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47802 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60852 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48734 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43560 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56200 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:52204 - "POST /login HTTP/1.1" 200 OK
+INFO:     185.125.100.40:47612 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:47612 - "GET /search/orders/DMA000032 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55038 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34794 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52650 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53786 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39094 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39088 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39104 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:39088 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:58822 - "GET /uploads/images.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58798 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58814 - "GET /uploads/AU_Comfort_03.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58810 - "GET /uploads/images%20%282%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58798 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58810 - "GET /uploads/da_622_02_a.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58798 - "GET /uploads/images%20%281%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58810 - "GET /uploads/VC20M257AWREV.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58814 - "GET /uploads/1111-6.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58822 - "GET /uploads/5IU6RAD.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58824 - "GET /uploads/702fd5cb1cc861edee7c15ca0eea36e1fb8051bf.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58798 - "GET /uploads/zZAl9waWN0dXJlNl9pZDE2NjY0MC5qcGcjKiMqIyojMTYwMCMqIyojKiMxNjAwIyojKiMqI2dvb2RzIyojKiMqIzAjKiMqIyojM%3D%3D.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:58810 - "GET /uploads/zZAl9waWN0dXJlNl9pZDE2NjY0MC5qcGcjKiMqIyojMTYwMCMqIyojKiMxNjAwIyojKiMqI2dvb2RzIyojKiMqIzAjKiMqIyojM%3D%3D.jpg HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:60596 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:51862 - "POST /login HTTP/1.1" 200 OK
+INFO:     185.125.100.40:38770 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50268 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:31]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:51872 - "POST /login HTTP/1.1" 400 Bad Request
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:36482 - "POST /login HTTP/1.1" 200 OK
+INFO:     185.125.100.40:56838 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43810 - "GET /clients HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57968 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     178.207.176.228:30403 - "POST /login HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30461 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58244 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29899 - "GET /products?skip=0&limit=100 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30678 - "GET /uploads/AU_Comfort_03.jpg HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30644 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.228:29932 - "GET /uploads/cel0pcerbt6b315aufs3xefj1tqj5aek.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.228:30993 - "GET /uploads/598_original.jpg HTTP/1.1" 304 Not Modified
+INFO:     178.207.176.228:31046 - "GET /uploads/images%20%282%29.jpg HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29932 - "GET /uploads/images.jpg HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55910 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:56190 - "OPTIONS /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:56200 - "GET /clients HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42830 - "GET / HTTP/1.1" 200 OK
+INFO:     198.235.24.247:58502 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59956 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38954 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40544 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30661 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:60212 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34976 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:49132 - "OPTIONS /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:49140 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:59772 - "OPTIONS /search/orders/DMA000051 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:59784 - "GET /search/orders/DMA000051 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38764 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:38014 - "OPTIONS /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:38018 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:54288 - "OPTIONS /orders/by-identifier/DMA000008/status HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:6]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[7:12]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Старый чек для заказа DMA000008 удалён
+INFO:     185.125.100.40:54290 - "PATCH /orders/by-identifier/DMA000008/status HTTP/1.1" 200 OK
+INFO:     185.125.100.40:53906 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50750 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49928 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40666 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41334 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50100 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59962 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31141 - "GET /uploads/da_622_02_a.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57196 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:33896 - "OPTIONS /orders/by-identifier/DMA000008/items HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37710 - "GET / HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:122]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[123:131]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[132:133]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Received: identifier=DMA000008, product_name=Плита электрическая, quantity=1, type=<class 'int'>
+Старый чек для заказа DMA000008 удалён
+INFO:     185.125.100.40:33910 - "POST /orders/by-identifier/DMA000008/items HTTP/1.1" 200 OK
+INFO:     185.125.100.40:33920 - "OPTIONS /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:33932 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37086 - "OPTIONS /orders/by-identifier/DMA000008/items/by-name HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:122]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[123:131]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[132:133]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Received: identifier=DMA000008, product_name=Плита электрическая, quantity=1, type=<class 'int'>
+Старый чек для заказа DMA000008 удалён
+INFO:     185.125.100.40:37100 - "PATCH /orders/by-identifier/DMA000008/items/by-name HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37112 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:73]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[74:82]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[83:84]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Received: identifier=DMA000008, product_name=Вентилятор, quantity=1, type=<class 'int'>
+Старый чек для заказа DMA000008 удалён
+INFO:     185.125.100.40:43838 - "POST /orders/by-identifier/DMA000008/items HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43846 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:12]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[13:73]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[74:82]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[83:84]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+Received: identifier=DMA000008, product_name=Вентилятор, quantity=0, type=<class 'int'>
+Старый чек для заказа DMA000008 удалён
+INFO:     185.125.100.40:50924 - "PATCH /orders/by-identifier/DMA000008/items/by-name HTTP/1.1" 200 OK
+INFO:     185.125.100.40:50934 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43856 - "OPTIONS /orders/DMA000008/receipt HTTP/1.1" 200 OK
+INFO:     185.125.100.40:43860 - "GET /orders/DMA000008/receipt HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41194 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49272 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42704 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57276 - "OPTIONS /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57292 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55924 - "OPTIONS /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55940 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:38828 - "OPTIONS /products?skip=0&limit=9 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:38844 - "GET /products?skip=0&limit=9 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:38892 - "OPTIONS /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:38880 - "GET /uploads/9e5c4500bab6b0e0800421105770ba87.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:38894 - "GET /uploads/cel0pcerbt6b315aufs3xefj1tqj5aek.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:38860 - "GET /uploads/images%20%282%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:38908 - "GET /uploads/AU_Comfort_03.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:38870 - "GET /uploads/5IU6RAD.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:38930 - "GET /uploads/images.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:38938 - "GET /uploads/GT75824D_2.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:38920 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:38948 - "OPTIONS /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:38962 - "GET /products HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35578 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:36134 - "GET /products?skip=0&limit=9 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:36138 - "GET /products?skip=0&limit=1 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:51676 - "GET /products HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49700 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:35134 - "OPTIONS /orders HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45708 - "POST /orders HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45720 - "OPTIONS /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45732 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35238 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:50818 - "OPTIONS /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:50832 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:38748 - "OPTIONS /products?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:38756 - "GET /products?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:38762 - "GET /uploads/702fd5cb1cc861edee7c15ca0eea36e1fb8051bf.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:38768 - "GET /uploads/images%20%281%29.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:38780 - "GET /uploads/1111-6.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:38784 - "GET /uploads/VC20M257AWREV.jpg HTTP/1.1" 304 Not Modified
+INFO:     185.125.100.40:38788 - "GET /uploads/da_622_02_a.jpg HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46284 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:42098 - "OPTIONS /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:42106 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:38622 - "GET /products HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51684 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44606 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45046 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48896 - "OPTIONS /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48904 - "OPTIONS /products?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48920 - "GET /products?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53752 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45158 - "OPTIONS /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45168 - "GET /products HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45182 - "OPTIONS /products/by-name HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:7]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[8:158]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:45198 - "PUT /products/by-name HTTP/1.1" 200 OK
+INFO:     185.125.100.40:50242 - "GET /products?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56734 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45182 - "OPTIONS /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45192 - "GET /clients HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45194 - "OPTIONS /search/clients?first_name=%D0%9C%D0%B8%D0%BD%D0%B3%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2&last_name=%D0%94%D0%B0%D0%BD%D0%B8%D1%80 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45196 - "GET /search/clients?first_name=%D0%9C%D0%B8%D0%BD%D0%B3%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2&last_name=%D0%94%D0%B0%D0%BD%D0%B8%D1%80 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:56784 - "GET /clients HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60132 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53840 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41410 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49304 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46718 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37678 - "OPTIONS /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:34498 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57254 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57242 - "GET /users/me HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57256 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57256 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48790 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48820 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57256 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48806 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48790 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48806 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57256 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48820 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48806 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48806 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48820 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48790 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57256 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57992 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48806 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48820 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48790 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57992 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57256 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48820 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:57256 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:48790 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55602 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55614 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55628 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55616 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55626 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55602 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55616 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55628 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55614 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55602 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55626 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55616 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55614 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55616 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55602 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:55628 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51676 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45374 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45386 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45384 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45374 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45386 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45384 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:45374 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:33962 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     185.125.100.40:48134 - "POST /login HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37952 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37952 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37952 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37966 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37952 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37966 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:41634 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     185.125.100.40:41628 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[0:8]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[9:13]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_field_start with no data
+DEBUG:python_multipart.multipart:Calling on_field_name with data[14:22]
+DEBUG:python_multipart.multipart:Calling on_field_data with data[23:28]
+DEBUG:python_multipart.multipart:Calling on_field_end with no data
+DEBUG:python_multipart.multipart:Calling on_end with no data
+INFO:     178.207.176.228:30757 - "POST /login HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30543 - "GET /orders?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56896 - "GET / HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30476 - "GET /clients HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29667 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30377 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30267 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30474 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31073 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29937 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30296 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31058 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30816 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:31111 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29820 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:30712 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     178.207.176.228:29781 - "GET /search/orders/DMA000008 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34702 - "GET / HTTP/1.1" 200 OK
+INFO:     185.125.100.40:37376 - "GET /clients HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57550 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58548 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45366 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39284 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34636 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37270 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49838 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53202 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42532 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59354 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36320 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57294 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44026 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54032 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40780 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36332 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49592 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52298 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34562 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53700 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57712 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56174 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41668 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38754 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46932 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40434 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43128 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37104 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49094 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58602 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50410 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32842 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37608 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35822 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44328 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50982 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42258 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57982 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48280 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33886 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57140 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48870 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37600 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33192 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58974 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60142 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37288 - "GET / HTTP/1.1" 200 OK
+INFO:     198.235.24.239:60642 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41478 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37260 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43074 - "GET / HTTP/1.1" 200 OK
+INFO:     85.142.100.5:55344 - "GET / HTTP/1.1" 200 OK
+INFO:     85.142.100.5:34132 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52194 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44542 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42110 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51224 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51806 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39396 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38850 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46534 - "GET / HTTP/1.1" 200 OK
+INFO:     172.236.228.193:53556 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37856 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50832 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56596 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43818 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46482 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52536 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50066 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58598 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57510 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57624 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55940 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58758 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45626 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45552 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44738 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58804 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54240 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42858 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33320 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49484 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41290 - "GET / HTTP/1.1" 200 OK
+INFO:     206.168.34.89:51500 - "GET / HTTP/1.1" 200 OK
+INFO:     206.168.34.89:47782 - "GET / HTTP/1.1" 200 OK
+INFO:     163.5.138.240:39909 - "GET / HTTP/1.1" 200 OK
+INFO:     206.168.34.89:41916 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     206.168.34.89:41928 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     206.168.34.89:51968 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     206.168.34.89:35380 - "GET /wiki HTTP/1.1" 404 Not Found
+INFO:     206.168.34.89:35404 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:36230 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42314 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60756 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60810 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46622 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38514 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59072 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57340 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37224 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36228 - "GET / HTTP/1.1" 200 OK
